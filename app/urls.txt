@@ -1,0 +1,4 @@
+http://www.kiae.ru
+http://www.mail.ru
+https://www.mail.ru
+http://no.such.url
